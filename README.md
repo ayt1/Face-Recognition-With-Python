@@ -22,7 +22,7 @@ To install OpenCV, refer to this link https://docs.opencv.org/3.4/da/df6/tutoria
 
 You can also type 'pip install opencv-python' in terminal to install OpenCV
 
-imutils can be installed using 'pip install imultils'
+imutils can be installed using 'pip install imutils'
 
 ## Dataset Preparation
 In order to get face images, I have used this python script https://github.com/hardikvasa/google-images-download
