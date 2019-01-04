@@ -24,6 +24,6 @@ After download, delete inappropriate images(images not containing Samuel Jackson
 ## Run .py Files
 Run encode_faces.py first to obtain face encodings corresponding to each image in your train folder. (There is no training involved in the code. The model has already been trained. I am using the name 'train' just for convenience.)
 
-Afterwards, run face_recognition.py on your test images to see whether you success. You can also use the same script you did for train images to get your test images. I merged my test images using this website https://www.photojoiner.net/ to test them all at once. 
+Afterwards, run face_recognition.py on your test images to see whether you success. Dont forget to change path names given as 'example' with your own paths. You can use the same script mentioned above to get your test images. I merged my test images using this website https://www.photojoiner.net/ to test them all at once. 
 
 It is possible to do real time face recognition if you have suitable hardware equipment. Since I dont have GPU on my laptop, I tested the model on images.
