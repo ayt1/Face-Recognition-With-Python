@@ -6,6 +6,10 @@ Face recognition using Dlib deep learning based face embedding model and face_re
 
 - face_recognition
 
+- OpenCV
+
+- imutils
+
 If you want to use your GPU for faster processing, install Dlib with GPU support. You can also benefit from Dlib GUI feautures with GPU support enabled.
 
 For further details about installiation process, refer to here http://dlib.net/compile.html
@@ -13,6 +17,12 @@ For further details about installiation process, refer to here http://dlib.net/c
 face_recognition library can be installed using 'pip install face_recognition'. More information:
 
 https://github.com/ageitgey/face_recognition
+
+To install OpenCV, refer to this link https://docs.opencv.org/3.4/da/df6/tutorial_py_table_of_contents_setup.html
+
+You can also type 'pip install opencv-python' in terminal to install OpenCV
+
+imutils can be installed using 'pip install imultils'
 
 ## Dataset Preparation
 In order to get face images, I have used this python script https://github.com/hardikvasa/google-images-download
